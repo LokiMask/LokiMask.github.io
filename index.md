@@ -4,7 +4,7 @@ Today I am beginning to write my poor research road of nlp in github.Rookie as I
 I will be here every day to share the reading of the article and encountered engineering difficulties
 
 <center>
-<img src="./timg.jpg" width="25%" height="25%" />
+<img src="./timg.png" width="25%" height="25%" />
 Soochow University
 </center>
 
